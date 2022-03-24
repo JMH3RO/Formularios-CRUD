@@ -22,6 +22,8 @@ import { NzInputModule } from 'ng-zorro-antd/input';
 import { NzRadioModule } from 'ng-zorro-antd/radio';
 import { NzDatePickerModule } from 'ng-zorro-antd/date-picker';
 import { NzSelectModule } from 'ng-zorro-antd/select';
+import { NzInputNumberModule } from 'ng-zorro-antd/input-number';
+
 
 @NgModule({
   declarations: [
@@ -48,7 +50,8 @@ import { NzSelectModule } from 'ng-zorro-antd/select';
     NzInputModule,
     NzRadioModule,
     NzDatePickerModule,
-    NzSelectModule
+    NzSelectModule,
+    NzInputNumberModule
   ]
 })
 export class MantenimientoModule { }

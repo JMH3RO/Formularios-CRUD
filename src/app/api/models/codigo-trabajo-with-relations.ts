@@ -5,8 +5,8 @@
  * (tsType: CodigoTrabajoWithRelations, schemaOptions: { includeRelations: true })
  */
 export interface CodigoTrabajoWithRelations {
-  antiguedad: number;
-  diasOtorgados: number;
-  id?: string;
+  antiguedad: string;
+  diasOtorgados: string;
+  id: string;
   vigente: boolean;
 }

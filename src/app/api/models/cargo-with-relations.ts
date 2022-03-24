@@ -7,6 +7,6 @@ import { EmpleadoWithRelations } from './empleado-with-relations';
  */
 export interface CargoWithRelations {
   empleados?: Array<EmpleadoWithRelations>;
-  id?: string;
+  id: string;
   nombre: string;
 }

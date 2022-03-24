@@ -9,5 +9,5 @@ export interface VacacionesWithRelations {
   empleado?: EmpleadoWithRelations;
   empleadoId?: string;
   fecha: string;
-  id?: string;
+  id: string;
 }

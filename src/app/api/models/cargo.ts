@@ -1,6 +1,6 @@
 /* tslint:disable */
 /* eslint-disable */
 export interface Cargo {
-  id?: string;
+  id: string;
   nombre: string;
 }

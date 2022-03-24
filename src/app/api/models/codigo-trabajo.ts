@@ -1,8 +1,8 @@
 /* tslint:disable */
 /* eslint-disable */
 export interface CodigoTrabajo {
-  antiguedad: number;
-  diasOtorgados: number;
-  id?: string;
+  antiguedad: string;
+  diasOtorgados: string;
+  id: string;
   vigente: boolean;
 }

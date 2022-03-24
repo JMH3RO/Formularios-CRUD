@@ -5,8 +5,8 @@
  * (tsType: Partial<CodigoTrabajo>, schemaOptions: { partial: true })
  */
 export interface CodigoTrabajoPartial {
-  antiguedad?: number;
-  diasOtorgados?: number;
+  antiguedad?: string;
+  diasOtorgados?: string;
   id?: string;
   vigente?: boolean;
 }
