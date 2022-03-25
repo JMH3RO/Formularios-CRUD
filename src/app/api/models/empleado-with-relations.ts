@@ -1,4 +1,4 @@
-/* tslint:disable */
+/* tslint:disable **/
 /* eslint-disable */
 import { CargoWithRelations } from './cargo-with-relations';
 import { VacacionesWithRelations } from './vacaciones-with-relations';

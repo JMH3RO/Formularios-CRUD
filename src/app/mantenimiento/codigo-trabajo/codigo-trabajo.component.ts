@@ -38,7 +38,7 @@ export class CodigoTrabajoComponent implements OnInit {
   }
 
   cancel(): void {
-    this.messageService.info('Su registro sigue activo!')
+    this.messageService.info('Su registro esta activo!')
   }
 
   ocultar(): void {

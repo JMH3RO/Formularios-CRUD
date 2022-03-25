@@ -12,7 +12,8 @@ describe('CargoComponent', () => {
     })
     .compileComponents();
   });
-
+/*
+*/
   beforeEach(() => {
     fixture = TestBed.createComponent(CargoComponent);
     component = fixture.componentInstance;

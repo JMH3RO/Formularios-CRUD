@@ -8,7 +8,7 @@ import { CargoComponent } from './cargo/cargo.component';
 import { CodigoTrabajoComponent } from './codigo-trabajo/codigo-trabajo.component';
 import { VacacionesComponent } from './vacaciones/vacaciones.component';
 
-//Importaciones de NG ZORRO
+//*Importaciones de NG ZORRO
 import { NzTableModule } from 'ng-zorro-antd/table';
 import { NzDividerModule } from 'ng-zorro-antd/divider';
 import { NzIconModule } from 'ng-zorro-antd/icon';

@@ -1,4 +1,4 @@
-/* tslint:disable */
+/* tslint:disable **/
 /* eslint-disable */
 export interface Empleado {
   cargoId?: string;

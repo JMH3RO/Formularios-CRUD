@@ -3,7 +3,8 @@ import { Cargo, Empleado } from 'src/app/api/models';
 import { CargoControllerService, EmpleadoControllerService } from 'src/app/api/services';
 import { NzMessageService } from 'ng-zorro-antd/message';
 import { FormBuilder, FormGroup } from '@angular/forms';
-
+/*
+*/
 @Component({
   selector: 'app-empleado',
   templateUrl: './empleado.component.html',

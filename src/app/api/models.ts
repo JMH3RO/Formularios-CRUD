@@ -18,3 +18,5 @@ export { NewEmpleado } from './models/new-empleado';
 export { NewVacaciones } from './models/new-vacaciones';
 export { Count as LoopbackCount } from './models/loopback/count';
 export { PingResponse } from './models/ping-response';
+/*
+*/

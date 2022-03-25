@@ -1,4 +1,4 @@
-/* tslint:disable */
+/* tslint:disable **/
 /* eslint-disable */
 import { HttpRequest, HttpParameterCodec, HttpParams, HttpHeaders } from '@angular/common/http';
 

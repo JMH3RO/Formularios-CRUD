@@ -1,4 +1,4 @@
-/* tslint:disable */
+/* tslint:disable **/
 /* eslint-disable */
 import { EmpleadoWithRelations } from './empleado-with-relations';
 

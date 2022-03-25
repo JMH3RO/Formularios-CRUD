@@ -12,7 +12,8 @@ describe('CodigoTrabajoComponent', () => {
     })
     .compileComponents();
   });
-
+/*
+*/
   beforeEach(() => {
     fixture = TestBed.createComponent(CodigoTrabajoComponent);
     component = fixture.componentInstance;
